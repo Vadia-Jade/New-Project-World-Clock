@@ -20,7 +20,7 @@ select{
 .wrapper {
      max-width: 700px;
      margin: 40px auto;
-     background: white;
+     background: rgb(211, 213, 247);
      padding: 28px;
      box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
      border-radius: 12px;
@@ -51,5 +51,8 @@ select{
 
 footer{
     text-align: center;
-    font-size: 18px;
+    font-size: 20px;
+}
+footer strong{
+    font-style: italic;
 }
